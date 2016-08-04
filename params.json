@@ -1,1 +1,7 @@
-{"tagline":"Open Source Legal Documents for Startups","google":"","note":"Don't delete this file! It's used internally to help with page regeneration.","body":"**GeekDocs**\r\n\r\nOpen Source Legal Docs for Startups, explained.\r\n","name":"Geekdocs"}
+{
+  "name": "Geekdocs",
+  "tagline": "Open Source Legal Documents for Startups",
+  "body": "**GeekDocs**\r\n\r\nOpen Source Legal Docs for Startups, explained.\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
