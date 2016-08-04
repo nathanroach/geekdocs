@@ -1,6 +1,7 @@
 //DRAFT IN PROGRESS - DO NOT USE//
 
 **SUMMARY OF TERMS FOR PRIVATE PLACEMENT OF CONTINGENT EQUITY ACQUISITION**
+
 PER Y-COMBNATOR PROMULGATED `SAFE` DOCUMENT (SIMPLE AGREEMENT FOR FUTURE EQUITY)
 
 The following is a summary of the principal terms with respect to the proposed offering of contingent equity interests of `COMPANY NAME`, `LLC | INC | LP`, a `Jurisdiction` `entity form` (the “Company”). 
@@ -21,11 +22,17 @@ _Proposed Terms_
 
 
 COMPANY:
-Name:  	___				
-Title: ___					
-Date: ___				
+Name:  
+___				
+Title:
+___					
+Date:
+___				
 
 INVESTOR: 
-Name: ___				
-Title: ___  						
-Date: ___  						
+Name:
+___				
+Title:
+___  						
+Date:
+___  						
