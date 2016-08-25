@@ -14,6 +14,9 @@ _Proposed Terms_
 | Amount of Financing | Aggregate funds of up to $100,000.00 |
 | Minimum Purchase | Investors must subscribe for a minimum contribution of USD $10,000.00 |
 | Eligible Investor(s) | The named accredited investor who has executed this term sheet or an accredited investor approved by the Company (the “Investor”) |
+|Cap | The valuation cap for this offering is `$1.5 million` USD. A valuation cap is the maximum company valuation that will be used for converting SAFE obligations to equity at the Qualified Financing.|
+|Discount| The discount for this offering is `20%`. Funds invested at this offering will convert at the stated discount to shares purchased by new investors at the Qualified Financing. |
+|MFN | `None.` A most-favored nation clause can provide investors with guaranteed preferential terms based upon future contingencies. |
 | Current Capitalization | The pre-investment and post-investment capitalization of the Company on a fully diluted basis (including all options and warrants and all authorized but unissued options) will be as set forth in the capitalization table attached as Exhibit A.|
 | Anti-dilution | Interim funds raised are non-dilutive because no equity will issue until the Qualified Financing,  |
 | Voting Rights | None. Rights for as-converted shares will be set by the terms of the Qualified Financing. |
